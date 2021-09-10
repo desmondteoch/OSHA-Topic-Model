@@ -1,2 +1,3 @@
-# Workplace-Accidents-Unsupervised-Learning
-Exploration of clustering and topic modelling to extract themes from workplace accident reports
+## Analysing workplace accident reports using unsupervised learning methods
+Purpose: To explore clustering and topic modelling methods to extract themes from workplace accident reports
+Data Source: U.S. Dept of Labour, Occupation Safety and Health Administration (OSHA)
